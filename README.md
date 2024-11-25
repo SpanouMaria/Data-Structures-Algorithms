@@ -32,4 +32,4 @@ Welcome to the **Data Structures Algorithms** repository! This repository contai
    Clone the repository to your local machine:
    ```bash
    git clone https://github.com/SpanouMaria/Data-Structures-Algorithms.git
-   cd Data-Structures-Algorithms
+   cd Data-Structures-Algorithms/Algorithms
